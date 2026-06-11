@@ -1,0 +1,320 @@
+Aaronson, Brenden; 7.4; Leeds United
+Alisson, Becker; 8.6; Liverpool
+Alvarez, Edson; 7.7; West Ham United
+Areola, Alphonse; 7.6; West Ham United
+Bailey, Leon; 8.2; Aston Villa
+Bale, Jobe; 7.3; Sunderland
+Bassey, Calvin; 7.5; Fulham
+Beyer, Jordan; 7.5; Burnley
+Bellingham, Jobe; 7.5; Sunderland
+Bowen, Jarrod; 8.4; West Ham United
+Brownhill, Josh; 7.6; Burnley
+Caicedo, Moises; 8.3; Chelsea
+Calvert-Lewin, Dominic; 7.6; Everton
+Cirkin, Dennis; 7.2; Sunderland
+Colwill, Levi; 7.6; Chelsea
+Cunha, Matheus; 8.2; Wolverhampton Wanderers
+Dias, Ruben; 8.7; Manchester City
+Diaz, Luis; 8.5; Liverpool
+Dunk, Lewis; 7.5; Brighton & Hove Albion
+Eze, Eberechi; 8.5; Crystal Palace
+Fernandes, Bruno; 8.5; Manchester United
+Flekken, Mark; 7.3; Brentford
+Foden, Phil; 8.9; Manchester City
+Foster, Lyle; 7.6; Burnley
+Gabriel, Magalhaes; 8.8; Arsenal
+Gibbs-White, Morgan; 8.3; Nottingham Forest
+Gomes, Joao; 7.7; Wolverhampton Wanderers
+Gordon, Anthony; 8.4; Newcastle United
+Gnonto, Wilfried; 7.6; Leeds United
+Guehi, Marc; 8.0; Crystal Palace
+Gueye, Idrissa; 7.3; Everton
+Guimaraes, Bruno; 8.5; Newcastle United
+Haaland, Erling; 9.6; Manchester City
+Henderson, Dean; 7.5; Crystal Palace
+Hudson-Odoi, Callum; 7.6; Nottingham Forest
+Hume, Trai; 7.4; Sunderland
+Hwang, Hee-chan; 7.6; Wolverhampton Wanderers
+Isak, Alexander; 8.9; Newcastle United
+Iwobi, Alex; 7.6; Fulham
+Jackson, Nicolas; 8.1; Chelsea
+Kepa, Arrizabalaga; 7.4; Bournemouth
+Kluivert, Justin; 7.7; Bournemouth
+Konsa, Ezri; 7.8; Aston Villa
+Kudus, Mohammed; 8.3; West Ham United
+Lemina, Mario; 7.5; Wolverhampton Wanderers
+Leno, Bernd; 8.1; Fulham
+Mac Allister, Alexis; 8.4; Liverpool
+Maddison, James; 8.2; Tottenham
+Mainoo, Kobbie; 7.9; Manchester United
+Martinez, Emiliano; 8.7; Aston Villa
+Martinez, Lisandro; 8.1; Manchester United
+Mateta, Jean-Philippe; 8.1; Crystal Palace
+Mbeumo, Bryan; 8.4; Brentford
+McGinn, John; 8.1; Aston Villa
+McNeil, Dwight; 7.5; Everton
+Meslier, Illan; 7.6; Leeds United
+Mitoma, Kaoru; 8.2; Brighton & Hove Albion
+Munoz, Daniel; 7.8; Crystal Palace
+Muric, Arijanet; 7.5; Burnley
+Murillo, Santiago; 7.9; Nottingham Forest
+Norgaard, Christian; 7.5; Brentford
+Onana, Andre; 7.7; Manchester United
+O'Nien, Luke; 7.1; Sunderland
+O'Shea, Dara; 7.4; Burnley
+Palmer, Cole; 9.4; Chelsea
+Paqueta, Lucas; 8.0; West Ham United
+Pedro, Joao; 8.0; Brighton & Hove Albion
+Pereira, Andreas; 7.5; Fulham
+Pickford, Jordan; 8.2; Everton
+Pinnock, Ethan; 7.4; Brentford
+Pope, Nick; 7.8; Newcastle United
+Rashford, Marcus; 7.8; Manchester United
+Raya, David; 8.4; Arsenal
+Rice, Declan; 8.6; Arsenal
+Robinson, Antonee; 7.9; Fulham
+Rodri, Kevin; 9.5; Manchester City
+Rodon, Joe; 7.5; Leeds United
+Romero, Cristian; 8.4; Tottenham
+Sa, Jose; 7.4; Wolverhampton Wanderers
+Saka, Bukayo; 9.2; Arsenal
+Salah, Mohamed; 9.3; Liverpool
+Saliba, William; 8.9; Arsenal
+Sanchez, Robert; 7.5; Chelsea
+Sels, Matz; 7.5; Nottingham Forest
+Semenyo, Antoine; 7.8; Bournemouth
+Solanke, Dominic; 7.9; Tottenham
+Son, Heung-min; 8.8; Tottenham
+Struijk, Pascal; 7.5; Leeds United
+Tarkowski, James; 7.6; Everton
+Tavernier, Marcus; 7.5; Bournemouth
+Trafford, James; 7.8; Manchester City
+Trippier, Kieran; 7.6; Newcastle United
+Van Dijk, Virgil; 9.1; Liverpool
+Verbruggen, Bart; 7.6; Brighton & Hove Albion
+Vicario, Guglielmo; 8.0; Tottenham
+Watkins, Ollie; 8.8; Aston Villa
+Welbeck, Danny; 7.7; Brighton & Hove Albion
+Wissa, Yoane; 7.8; Brentford
+Wood, Chris; 8.2; Nottingham Forest
+Zabarnyi, Illia; 7.6; Bournemouth
+Mbappe, Kylian; 9.2; Real Madrid
+Junior, Vinicius; 9.0; Real Madrid
+Bellingham, Jude; 8.9; Real Madrid
+Valverde, Federico; 8.7; Real Madrid
+Rudiger, Antonio; 8.5; Real Madrid
+Lewandowski, Robert; 8.8; Barcelona
+Dias, Raphinha; 8.6; Barcelona
+Yamal, Lamine; 8.9; Barcelona
+Gonzalez, Pedri; 8.5; Barcelona
+Kounde, Jules; 8.4; Barcelona
+Griezmann, Antoine; 8.7; Atletico Madrid
+Oblak, Jan; 8.5; Atletico Madrid
+DePaul, Rodrigo; 8.3; Atletico Madrid
+Llorente, Marcos; 8.4; Atletico Madrid
+Gimenez, Jose; 8.2; Atletico Madrid
+Dovbyk, Artem; 8.6; Girona
+Garcia, Aleix; 8.4; Girona
+Moreira, Savio; 8.5; Girona
+Blind, Daley; 8.1; Girona
+Gazzaniga, Paulo; 8.0; Girona
+Williams, Inaki; 8.5; Athletic Bilbao
+Williams, Nico; 8.7; Athletic Bilbao
+Sancet, Oihan; 8.2; Athletic Bilbao
+Simon, Unai; 8.6; Athletic Bilbao
+Vivian, Dani; 8.1; Athletic Bilbao
+Oyarzabal, Mikel; 8.4; Real Sociedad
+Zubimendi, Martin; 8.5; Real Sociedad
+Kubo, Takefusa; 8.4; Real Sociedad
+Remiro, Alex; 8.3; Real Sociedad
+LeNormand, Robin; 8.2; Real Sociedad
+Alarcon, Isco; 8.5; Betis
+Fekir, Nabil; 8.1; Betis
+Rodriguez, Guido; 8.2; Betis
+Pezzella, German; 8.0; Betis
+Silva, Rui; 7.9; Betis
+Moreno, Gerard; 8.4; Villarreal
+Baena, Alex; 8.5; Villarreal
+Sorloth, Alexander; 8.3; Villarreal
+Parejo, Dani; 8.0; Villarreal
+Jorgensen, Filip; 8.1; Villarreal
+Duro, Hugo; 8.1; Valencia
+Gaya, Jose; 8.3; Valencia
+Garcia, Pepelu; 8.2; Valencia
+Mamardashvili, Giorgi; 8.6; Valencia
+Mosquera, Cristhian; 7.9; Valencia
+EnNesyri, Youssef; 8.2; Sevilla
+Ocampos, Lucas; 8.1; Sevilla
+Ramos, Sergio; 8.3; Sevilla
+Soumare, Boubakary; 7.8; Sevilla
+Nyland, Orjan; 8.0; Sevilla
+Martinez, Lautaro; 9.1; Inter Milan
+Thuram, Marcus; 8.7; Inter Milan
+Calhanoglu, Hakan; 8.8; Inter Milan
+Barella, Nicolo; 8.7; Inter Milan
+Bastoni, Alessandro; 8.6; Inter Milan
+Leao, Rafael; 8.8; AC Milan
+Giroud, Olivier; 8.2; AC Milan
+Hernandez, Theo; 8.6; AC Milan
+Pulisic, Christian; 8.5; AC Milan
+Maignan, Mike; 8.5; AC Milan
+Vlahovic, Dusan; 8.6; Juventus
+Chiesa, Federico; 8.4; Juventus
+Rabiot, Adrien; 8.3; Juventus
+Bremer, Gleison; 8.5; Juventus
+Szczesny, Wojciech; 8.4; Juventus
+Koopmeiners, Teun; 8.6; Atalanta
+Scamacca, Gianluca; 8.4; Atalanta
+Lookman, Ademola; 8.5; Atalanta
+Scalvini, Giorgio; 8.3; Atalanta
+Carnesecchi, Marco; 8.2; Atalanta
+Zirkzee, Joshua; 8.5; Bologna
+Orsolini, Riccardo; 8.3; Bologna
+Ferguson, Lewis; 8.2; Bologna
+Calafiori, Riccardo; 8.4; Bologna
+Skorupski, Lukasz; 8.1; Bologna
+Dybala, Paulo; 8.7; AS Roma
+Lukaku, Romelu; 8.3; AS Roma
+Pellegrini, Lorenzo; 8.2; AS Roma
+Mancini, Gianluca; 8.1; AS Roma
+Svilar, Mile; 8.2; AS Roma
+Immobile, Ciro; 8.1; Lazio
+Alberto, Luis; 8.3; Lazio
+Zaccagni, Mattia; 8.2; Lazio
+Romagnoli, Alessio; 8.0; Lazio
+Provedel, Ivan; 8.3; Lazio
+Gonzalez, Nicolas; 8.3; Fiorentina
+Bonaventura, Giacomo; 8.1; Fiorentina
+Beltran, Lucas; 7.9; Fiorentina
+Kayode, Michael; 8.0; Fiorentina
+Terracciano, Pietro; 8.1; Fiorentina
+Osimhen, Victor; 8.7; Napoli
+Kvaratskhelia, Khvicha; 8.6; Napoli
+Politano, Matteo; 8.0; Napoli
+DiLorenzo, Giovanni; 8.1; Napoli
+Meret, Alex; 8.0; Napoli
+Zapata, Duvan; 8.3; Torino
+Buongiorno, Alessandro; 8.5; Torino
+Ricci, Samuele; 8.0; Torino
+Bellanova, Raoul; 8.1; Torino
+MilinkovicSavic, Vanja; 8.2; Torino
+Kane, Harry; 9.3; Bayern Munich
+Musiala, Jamal; 9.0; Bayern Munich
+Sane, Leroy; 8.6; Bayern Munich
+Kimmich, Joshua; 8.5; Bayern Munich
+Neuer, Manuel; 8.4; Bayern Munich
+Schick, Patrik; 8.8; Bayer Leverkusen
+Grimaldo, Alejandro; 9.0; Bayer Leverkusen
+Tillman, Malik; 8.4; Bayer Leverkusen
+Andrich, Robert; 8.3; Bayer Leverkusen
+Flekken, Mark; 8.2; Bayer Leverkusen
+Guirassy, Serhou; 8.9; VfB Stuttgart
+Fuhrich, Chris; 8.4; VfB Stuttgart
+Undav, Deniz; 8.5; VfB Stuttgart
+Anton, Waldemar; 8.2; VfB Stuttgart
+Nubel, Alexander; 8.3; VfB Stuttgart
+Openda, Lois; 8.7; RB Leipzig
+Simons, Xavi; 8.8; RB Leipzig
+Sesko, Benjamin; 8.3; RB Leipzig
+Olmo, Dani; 8.5; RB Leipzig
+Gulacsi, Peter; 8.2; RB Leipzig
+Fullkrug, Niclas; 8.3; Borussia Dortmund
+Brandt, Julian; 8.4; Borussia Dortmund
+Sabitzer, Marcel; 8.2; Borussia Dortmund
+Schlotterbeck, Nico; 8.3; Borussia Dortmund
+Kobel, Gregor; 8.6; Borussia Dortmund
+Marmoush, Omar; 8.4; Eintracht Frankfurt
+Knauff, Ansgar; 7.9; Eintracht Frankfurt
+Larsson, Hugo; 8.1; Eintracht Frankfurt
+Koch, Robin; 8.1; Eintracht Frankfurt
+Trapp, Kevin; 8.2; Eintracht Frankfurt
+Kramaric, Andrej; 8.2; Hoffenheim
+Beier, Maximilian; 8.3; Hoffenheim
+Promel, Grischa; 7.8; Hoffenheim
+Baumann, Oliver; 8.4; Hoffenheim
+Kabak, Ozan; 7.9; Hoffenheim
+Kleindienst, Tim; 8.2; Heidenheim
+Beste, JanNiklas; 8.4; Heidenheim
+Dinkci, Eren; 8.1; Heidenheim
+Mainka, Patrick; 7.9; Heidenheim
+Muller, Kevin; 8.1; Heidenheim
+Ducksch, Marvin; 8.1; Werder Bremen
+Njinmah, Justin; 7.9; Werder Bremen
+Weiser, Mitchell; 8.0; Werder Bremen
+Friedl, Marco; 7.8; Werder Bremen
+Zetterer, Michael; 8.1; Werder Bremen
+Grifo, Vincenzo; 8.2; Freiburg
+Gregoritsch, Michael; 8.0; Freiburg
+Doan, Ritsu; 8.1; Freiburg
+Ginter, Matthias; 8.0; Freiburg
+Atubolu, Noah; 7.8; Freiburg
+Dembele, Ousmane; 8.7; Paris Saint-Germain
+Barcola, Bradley; 8.5; Paris Saint-Germain
+Sanches, Vitinha; 8.6; Paris Saint-Germain
+Correa, Marquinhos; 8.5; Paris Saint-Germain
+Donnarumma, Gianluigi; 8.7; Paris Saint-Germain
+BenYedder, Wissam; 8.4; AS Monaco
+Golovin, Aleksandr; 8.5; AS Monaco
+Minamino, Takumi; 8.2; AS Monaco
+Fofana, Youssouf; 8.3; AS Monaco
+Majecki, Radoslaw; 8.1; AS Monaco
+David, Jonathan; 8.6; Lille
+Zhegrova, Edon; 8.4; Lille
+Andre, Benjamin; 8.1; Lille
+Yoro, Leny; 8.5; Lille
+Chevalier, Lucas; 8.5; Lille
+Mounie, Steve; 8.1; Brest
+DelCastillo, Romain; 8.3; Brest
+LeesMelou, Pierre; 8.4; Brest
+Locko, Bradley; 8.1; Brest
+Bizot, Marco; 8.3; Brest
+Moffi, Terem; 8.1; Nice
+Boga, Jeremie; 8.2; Nice
+Thuram, Khephren; 8.3; Nice
+Todibo, JeanClair; 8.4; Nice
+Bulka, Marcin; 8.5; Nice
+Lacazette, Alexandre; 8.5; Lyon
+Cherki, Raydan; 8.2; Lyon
+Caqueret, Maxence; 8.1; Lyon
+OBrien, Jake; 8.2; Lyon
+Lopes, Anthony; 8.1; Lyon
+Wahi, Elye; 8.1; Lens
+Sotoca, Florian; 8.0; Lens
+Frankowski, Przemyslaw; 8.0; Lens
+Danso, Kevin; 8.3; Lens
+Samba, Brice; 8.3; Lens
+Aubameyang, PierreEmerick; 8.6; Marseille
+Harit, Amine; 8.1; Marseille
+Veretout, Jordan; 8.0; Marseille
+Balerdi, Leonardo; 8.2; Marseille
+Lopez, Pau; 8.0; Marseille
+Teuma, Teddy; 8.1; Reims
+Diakite, Oumar; 7.9; Reims
+Munetsi, Marshall; 8.0; Reims
+Agbadou, Emmanuel; 7.9; Reims
+Diouf, Yehvann; 8.1; Reims
+Kalimuendo, Arthur; 8.1; Rennes
+Bourigeaud, Benjamin; 8.3; Rennes
+Gouiri, Amine; 8.0; Rennes
+Theate, Arthur; 7.9; Rennes
+Mandanda, Steve; 8.0; Rennes
+Mayoral, Borja; 8.3; Getafe
+Greenwood, Mason; 8.4; Getafe
+Maksimovic, Nemanja; 7.9; Getafe
+Dakonam, Djene; 7.8; Getafe
+Soria, David; 8.1; Getafe
+Budimir, Ante; 8.4; Osasuna
+Garcia, Ruben; 7.8; Osasuna
+Moncayola, Jon; 7.9; Osasuna
+Garcia, David; 8.1; Osasuna
+Herrera, Sergio; 8.0; Osasuna
+Colpani, Andrea; 8.2; Monza
+Mota, Dany; 7.9; Monza
+Pessina, Matteo; 8.0; Monza
+Mari, Pablo; 7.9; Monza
+DiGregorio, Michele; 8.6; Monza
+Gudmundsson, Albert; 8.5; Genoa
+Retegui, Mateo; 8.1; Genoa
+Frendrup, Morten; 8.2; Genoa
+Bani, Mattia; 7.8; Genoa
+Martinez, Josep; 8.2; Genoa

@@ -1,0 +1,64 @@
+1, Arsenal, Underdog
+2, Manchester City
+3, Manchester United
+4, Aston Villa
+5, Liverpool
+6, Bournemouth
+7, Brighton & Hove Albion
+8, Brentford
+9, Sunderland
+10, Chelsea
+11, Newcastle United
+12, Everton
+13, Fulham
+14, Leeds United
+15, Crystal Palace
+16, Nottingham Forest
+17, Tottenham
+18, West Ham United
+19, Burnley
+20, Wolverhampton Wanderers
+21, Real Madrid
+22, Barcelona
+23, Atletico Madrid
+24, Girona
+25, Athletic Bilbao
+26, Real Sociedad
+27, Betis
+28, Villarreal
+29, Valencia
+30, Sevilla
+31, Inter Milan
+32, AC Milan
+33, Juventus
+34, Atalanta
+35, Bologna
+36, AS Roma
+37, Lazio
+38, Fiorentina
+39, Napoli
+40, Torino
+41, Bayern Munich
+42, Bayer Leverkusen
+43, VfB Stuttgart
+44, RB Leipzig
+45, Borussia Dortmund
+46, Eintracht Frankfurt
+47, Hoffenheim
+48, Heidenheim
+49, Werder Bremen
+50, Freiburg
+51, Paris Saint-Germain
+52, AS Monaco
+53, Lille
+54, Brest
+55, Nice
+56, Lyon
+57, Lens
+58, Marseille
+59, Reims
+60, Rennes
+61, Getafe
+62, Osasuna
+63, Monza
+64, Genoa

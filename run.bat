@@ -1,0 +1,6 @@
+@echo off
+cd /d "%~dp0"
+echo Compiling tournament components...
+javac --module-path "c:\javafx-sdk\javafx-sdk-25.0.3\lib" --add-modules javafx.controls,javafx.graphics TournamentApp.java
+echo Launching Tournament App Engine...
+java --module-path "c:\javafx-sdk\javafx-sdk-25.0.3\lib" --add-modules javafx.controls,javafx.graphics TournamentApp
