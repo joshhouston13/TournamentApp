@@ -1,3 +1,30 @@
+/*
+ * ----------------------------------------------------------------------------
+ * COURSE:          Java 1 Programming / Intro to Computer Science
+ * PROJECT:         Final Project - Tournament Simulation Engine
+ * FILE:            TournamentApp.java
+ * AUTHOR:          Joshua Houston
+ * DATE:            June 2026
+ * DESCRIPTION:
+ * This desktop application provides a comprehensive Tournament Simulation Engine 
+ * utilizing a graphical user interface built entirely with JavaFX. The software 
+ * dynamically accommodates 4, 8, 16, 32, or 64 teams loaded from external 
+ * data configurations and supports three core tournament models:
+ * 1. Single Elimination (Standard Seeded Bracket Layout)
+ * 2. Double Elimination (Symmetrical Winners & Losers Elimination Splits)
+ * 3. Round Robin (Full Schedule Matrix with a Live Standings Leaderboard)
+ *  The system supports both an 'Automatic Mode' driven by skill-weighted random 
+ * probability algorithms, and a 'Manual Mode' providing strict input validation 
+ * to handle manual score entries without allowing tie conditions.
+ * OBJECT-ORIENTED & ARCHITECTURAL HIGHLIGHTS:
+ * - OOP & Composition: Managed through relational class structuring where the 
+ * Team object encapsulates a dynamic array collection of nested Player objects.
+ * - Inheritance & Polymorphism: Demonstrated cleanly via the 'Underdog' 
+ * subclass, which overrides 'matchPower()' to add variable clutch mechanics.
+ * - Robust Input Validation: Handled across text harvesting, data parsing loops, 
+ * and GUI Alert frames protecting the main execution context from thread crashes.
+ * ----------------------------------------------------------------------------
+ */
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
